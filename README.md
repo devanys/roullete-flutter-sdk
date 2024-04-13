@@ -37,4 +37,3 @@ We would like to express our gratitude to the Flutter community for their contin
 ## Disclaimer
 Roulette Flutter SDK is provided as-is without any warranties or guarantees. The developers are not liable for any damages or losses arising from the use of this SDK.
 
-**Devan Yusfa Sukmadya**
